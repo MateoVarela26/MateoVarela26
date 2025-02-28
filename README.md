@@ -12,7 +12,7 @@
 <div>
 
 Acerca de mí:  
-💻 Actualmente estoy aprendiendo a programar y estudiando para ser Full Stack  
+💻 Actualmente estudiando para ser Full Stack  
 📚 Soy estudiante de desarrollo de software y estoy buscando dónde hacer una pasantía  
 🗣️ También estoy estudiando inglés  
 🎮 Me gusta aprender, jugar videojuegos y escuchar música  
